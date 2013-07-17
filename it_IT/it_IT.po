@@ -53,7 +53,7 @@ msgstr "Membri"
 
 #: includes/adminpages.php:16
 msgid "Reports"
-msgstr "Resoconti"
+msgstr "Rapporti"
 
 #: includes/adminpages.php:17
 #: includes/adminpages.php:79
