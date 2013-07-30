@@ -181,7 +181,7 @@ msgstr "L'iscrizione costa <strong>%s</strong>."
 #: includes/functions.php:169
 #, php-format
 msgid " and then <strong>%s per %s for %d more %s</strong>."
-msgstr " , quindi <strong>%s ogni %s per %d %s o più</strong>."
+msgstr ", quindi <strong>%s ogni %s per %d %s o più</strong>."
 
 #: includes/functions.php:173
 #, php-format
@@ -191,17 +191,17 @@ msgstr ", quindi <strong>%s ogni %d %s per %d %s o più</strong>."
 #: includes/functions.php:178
 #, php-format
 msgid " and then <strong>%s after %d %s</strong>."
-msgstr " , quindi <strong>%s dopo %d %s</strong>."
+msgstr ", quindi <strong>%s dopo %d %s</strong>."
 
 #: includes/functions.php:184
 #, php-format
 msgid " and then <strong>%s per %s</strong>."
-msgstr " , quindi <strong>%s ogni %s</strong>."
+msgstr ", quindi <strong>%s ogni %s</strong>."
 
 #: includes/functions.php:188
 #, php-format
 msgid " and then <strong>%s every %d %s</strong>."
-msgstr " , quindi <strong>%s ogni %d %s</strong>."
+msgstr ", quindi <strong>%s ogni %d %s</strong>."
 
 #: includes/functions.php:202
 #: pages/levels.php:83
@@ -1826,575 +1826,575 @@ msgstr ""
 
 #: pages/account.php:8
 msgid "Your membership is <strong>active</strong>."
-msgstr ""
+msgstr "L'iscrizione è <strong>attiva</strong>."
 
 #: pages/account.php:10
 #: pages/billing.php:16
 #: pages/levels.php:14
 msgid "Level"
-msgstr ""
+msgstr "Livello"
 
 #: pages/account.php:12
 #: pages/billing.php:18
 msgid "Membership Fee"
-msgstr ""
+msgstr "Quota d'iscrizione"
 
 #: pages/account.php:23
 #: pages/billing.php:29
 msgid "Duration"
-msgstr ""
+msgstr "Durata"
 
 #: pages/account.php:27
 #: pages/confirmation.php:48
 #: pages/invoice.php:26
 msgid "Membership Expires"
-msgstr ""
+msgstr "Scadenza Iscrizione / L'iscrizione Scade"
 
 #: pages/account.php:32
 #, php-format
 msgid "Your first payment will cost %s."
-msgstr ""
+msgstr "Il pagamento iniziale vale %s."
 
 #: pages/account.php:36
 #, php-format
 msgid "Your first %d payments will cost %s."
-msgstr ""
+msgstr "Il pagamento iniziale per %d vale %s."
 
 #: pages/account.php:44
 msgid "Edit"
-msgstr ""
+msgstr "Modifica"
 
 #: pages/account.php:44
 msgid "My Account"
-msgstr ""
+msgstr "Profilo"
 
 #: pages/account.php:52
 #: pages/checkout.php:34
 msgid "change"
-msgstr ""
+msgstr "cambia"
 
 #: pages/account.php:100
 #: pages/confirmation.php:61
 #: pages/invoice.php:45
 msgid "Payment Method"
-msgstr ""
+msgstr "Metodo di Pagamento"
 
 #: pages/account.php:109
 msgid "Member Links"
-msgstr ""
+msgstr "???"
 
 #: pages/account.php:115
 msgid "Update Billing Information"
-msgstr ""
+msgstr "Aggiorna informazioni di Pagamento"
 
 #: pages/account.php:118
 msgid "Change Membership Level"
-msgstr ""
+msgstr "Cambia livello d'iscrizione"
 
 #: pages/account.php:120
 msgid "Cancel Membership"
-msgstr ""
+msgstr "Annulla Iscrizione"
 
 #: pages/account.php:131
 msgid "Past Invoices"
-msgstr ""
+msgstr "Vecchie Fatture"
 
 #: pages/account.php:141
 #, php-format
 msgid "show %d more"
-msgstr ""
+msgstr "vedi %d tutto"
 
 #: pages/billing.php:14
 #, php-format
 msgid "Logged in as <strong>%s</strong>."
-msgstr ""
+msgstr "Autenticato come <strong>%s</strong>."
 
 #: pages/billing.php:14
 msgid "logout"
-msgstr ""
+msgstr "esci"
 
 #: pages/billing.php:39
 msgid "Your payment subscription is managed by PayPal. Please <a href=\"http://www.paypal.com\">login to PayPal here</a> to update your billing information."
-msgstr ""
+msgstr "Il pagamento è gestito da PayPal. <a href=\"http://www.paypal.com\">Effettua il login con PayPal qui</a> per aggiornare le impostazioni di pagamento."
 
 #: pages/billing.php:65
 #: pages/checkout.php:321
 msgid "First Name"
-msgstr ""
+msgstr "Nome"
 
 #: pages/billing.php:69
 #: pages/checkout.php:325
 msgid "Last Name"
-msgstr ""
+msgstr "Cognome"
 
 #: pages/billing.php:73
 #: pages/checkout.php:329
 msgid "Address 1"
-msgstr ""
+msgstr "Indirizzo 1"
 
 #: pages/billing.php:77
 #: pages/checkout.php:333
 msgid "Address 2"
-msgstr ""
+msgstr "Indirizzo 2"
 
 #: pages/billing.php:87
 #: pages/checkout.php:343
 msgid "City"
-msgstr ""
+msgstr "Città"
 
 #: pages/billing.php:91
 #: pages/checkout.php:347
 msgid "State"
-msgstr ""
+msgstr "Stato"
 
 #: pages/billing.php:95
 #: pages/checkout.php:351
 msgid "Postal Code"
-msgstr ""
+msgstr "CAP"
 
 #: pages/billing.php:104
 #: pages/checkout.php:360
 msgid "City, State Zip"
-msgstr ""
+msgstr "Provincia, Nazione"
 
 #: pages/billing.php:157
 #: pages/checkout.php:413
 msgid "Country"
-msgstr ""
+msgstr "Comune"
 
 #: pages/billing.php:182
 #: pages/checkout.php:438
 msgid "Phone"
-msgstr ""
+msgstr "Telefono"
 
 #: pages/billing.php:193
 #: pages/checkout.php:204
 #: pages/checkout.php:453
 msgid "E-mail Address"
-msgstr ""
+msgstr "Indirizzo Email"
 
 #: pages/billing.php:197
 #: pages/checkout.php:462
 msgid "Confirm E-mail"
-msgstr ""
+msgstr "Conferma Email"
 
 #: pages/billing.php:217
 #, php-format
 msgid "We accept %s"
-msgstr ""
+msgstr "Accettiamo %s"
 
 #: pages/billing.php:217
 msgid "Credit Card Information"
-msgstr ""
+msgstr "Informazioni Carta di Credito"
 
 #: pages/billing.php:244
 #: pages/checkout.php:520
 msgid "Card Number"
-msgstr ""
+msgstr "Numero di Carta"
 
 #: pages/billing.php:281
 #: pages/checkout.php:557
 msgid "CVV"
-msgstr ""
+msgstr "CVV"
 
 #: pages/billing.php:282
 #: pages/checkout.php:558
 msgid "what's this?"
-msgstr ""
+msgstr "Cos'è?"
 
 #: pages/billing.php:294
 msgid "Update"
-msgstr ""
+msgstr "Aggiorna"
 
 #: pages/billing.php:309
 msgid "This subscription is not recurring. So you don't need to update your billing information."
-msgstr ""
+msgstr "L'iscrizione non è ricorrente. Quindi non dovrai aggiornare le informazioni di pagamento."
 
 #: pages/cancel.php:14
 msgid "Are you sure you want to cancel your membership?"
-msgstr ""
+msgstr "Sicuro di voler cancellare l'iscrizione?"
 
 #: pages/cancel.php:17
 msgid "Yes, cancel my account"
-msgstr ""
+msgstr "Si, cancella il profilo"
 
 #: pages/cancel.php:19
 msgid "No, keep my account"
-msgstr ""
+msgstr "No, tieni il profilo"
 
 #: pages/cancel.php:22
 msgid "Click here to go to the home page."
-msgstr ""
+msgstr "Torna alla home."
 
 #: pages/checkout.php:27
 msgid "Almost done. Review the membership information and pricing below then <strong>click the \"Complete Payment\" button</strong> to finish your order."
-msgstr ""
+msgstr "Quasi fatto. Controlla le informazioni dell'iscrizione e il prezzo, poi <strong>clicca su \"Completa Pagamento\"</strong> per completare l'ordine."
 
 #: pages/checkout.php:42
 #, php-format
 msgid "You have selected the <strong>%s</strong> membership level."
-msgstr ""
+msgstr "Hai selezionato il livello <strong>%s</strong> d'iscrizione."
 
 #: pages/checkout.php:52
 #: services/applydiscountcode.php:82
 #, php-format
 msgid "The <strong>%s</strong> code has been applied to your order."
-msgstr ""
+msgstr "Il codice <strong>%s</strong> è stato applicato all'ordine."
 
 #: pages/checkout.php:63
 #: services/applydiscountcode.php:74
 msgid "Click here to change your discount code"
-msgstr ""
+msgstr "Clicca per cambiare il codice sconto"
 
 #: pages/checkout.php:65
 msgid "Do you have a discount code?"
-msgstr ""
+msgstr "Hai un codice sconto?"
 
 #: pages/checkout.php:65
 msgid "Click here to enter your discount code"
-msgstr ""
+msgstr "Clicca per inserire un codice sconto"
 
 #: pages/checkout.php:79
 #: pages/checkout.php:568
 msgid "Apply"
-msgstr ""
+msgstr "Applica"
 
 #: pages/checkout.php:160
 msgid "Already have an account?"
-msgstr ""
+msgstr "Hai già un account?"
 
 #: pages/checkout.php:160
 msgid "Log in here"
-msgstr ""
+msgstr "Accedi"
 
 #: pages/checkout.php:160
 msgid "Account Information"
-msgstr ""
+msgstr "Informazioni Profilo"
 
 #: pages/checkout.php:186
 msgid "Confirm Password"
-msgstr ""
+msgstr "Conferma Password"
 
 #: pages/checkout.php:213
 msgid "Confirm E-mail Address"
-msgstr ""
+msgstr "Conferma Email"
 
 #: pages/checkout.php:232
 msgid "Full Name"
-msgstr ""
+msgstr "Nome Completo"
 
 #: pages/checkout.php:233
 msgid "LEAVE THIS BLANK"
-msgstr ""
+msgstr "LASCIARE VUOTO"
 
 #: pages/checkout.php:257
 #, php-format
 msgid "You are logged in as <strong>%s</strong>. If you would like to use a different account for this membership, <a href=\"%s\">log out now</a>."
-msgstr ""
+msgstr "Sei autenticato come <strong>%s</strong>. Se preferisci utilizzare un altro account, <a href=\"%s\">esci ora e riaccedi</a>."
 
 #: pages/checkout.php:277
 #, php-format
 msgid "I agree to the %s"
-msgstr ""
+msgstr "Accetto i %s"
 
 #: pages/checkout.php:292
 msgid "Choose your Payment Method"
-msgstr ""
+msgstr "Seleziona il Metodo di Pagamento"
 
 #: pages/checkout.php:300
 msgid "Check Out with a Credit Card Here"
-msgstr ""
+msgstr "Paga con Carta di Credito"
 
 #: pages/checkout.php:302
 msgid "Check Out with payPal"
-msgstr ""
+msgstr "Paga con payPal"
 
 #: pages/checkout.php:493
 #, php-format
 msgid "We Accept %s"
-msgstr ""
+msgstr "Accettiamo %s"
 
 #: pages/checkout.php:493
 msgid "Payment Information"
-msgstr ""
+msgstr "Informazioni di Pagamento"
 
 #: pages/checkout.php:667
 msgid "Complete Payment"
-msgstr ""
+msgstr "Completa Pagamento"
 
 #: pages/checkout.php:675
 msgid "Check Out with PayPal"
-msgstr ""
+msgstr "Paga con PayPal"
 
 #: pages/checkout.php:681
 msgid "Submit and Check Out"
-msgstr ""
+msgstr "Invia e Paga"
 
 #: pages/checkout.php:681
 msgid "Submit and Confirm"
-msgstr ""
+msgstr "Invia e Conferma"
 
 #: pages/checkout.php:687
 msgid "Processing..."
-msgstr ""
+msgstr "Elaborando..."
 
 #: pages/confirmation.php:12
 msgid "Your payment has been submitted to PayPal. Your membership will be activated shortly."
-msgstr ""
+msgstr "Il pagamento è stato inviato a PayPal. L'iscrizione verrà attivata a breve."
 
 #: pages/confirmation.php:14
 #, php-format
 msgid "Thank you for your membership to %s. Your %s membership is now active."
-msgstr ""
+msgstr "Grazie per esserti iscritto a %s. La tua %s iscrizione è attiva."
 
 #: pages/confirmation.php:28
 #, php-format
 msgid "Below are details about your membership account and a receipt for your initial membership invoice. A welcome email with a copy of your initial membership invoice has been sent to %s."
-msgstr ""
+msgstr "Dettagli sulla tua iscrizione e ricevuta della fattura iniziale d'iscrizione. Una mail di benvenuto con una copia della fattura è stata inviata a %s."
 
 #: pages/confirmation.php:41
 #: pages/invoice.php:19
 #, php-format
 msgid "Invoice #%s on %s"
-msgstr ""
+msgstr "Fattura #%s di %s"
 
 #: pages/confirmation.php:43
 msgid "Print"
-msgstr ""
+msgstr "Stampa"
 
 #: pages/confirmation.php:45
 #: pages/confirmation.php:102
 #: pages/invoice.php:23
 msgid "Account"
-msgstr ""
+msgstr "Profilo"
 
 #: pages/confirmation.php:63
 #: pages/invoice.php:47
 msgid "Total Billed"
-msgstr ""
+msgstr "Totale Fatturato"
 
 #: pages/confirmation.php:80
 #: pages/invoice.php:64
 msgid "ending in"
-msgstr ""
+msgstr "scade tra"
 
 #: pages/confirmation.php:95
 #, php-format
 msgid "Below are details about your membership account. A welcome email with a copy of your initial membership invoice has been sent to %s."
-msgstr ""
+msgstr "Dettagli sulla tua iscrizione. Una mail di benvenuto con una copia della fattura iniziale d'iscrizione è stata inviata a %s."
 
 #: pages/confirmation.php:103
 msgid "Pending"
-msgstr ""
+msgstr "In attesa"
 
 #: pages/confirmation.php:110
 #: pages/invoice.php:94
 msgid "View Your Membership Account"
-msgstr ""
+msgstr "Visualizza il tuo Account"
 
 #: pages/confirmation.php:112
 msgid "If your account is not activated within a few minutes, please contact the site owner."
-msgstr ""
+msgstr "Se il tuo account non viene attivato in pochi minuti, contatta l'amministratore."
 
 #: pages/invoice.php:74
 msgid "Subtotal"
-msgstr ""
+msgstr "Subtotale"
 
 #: pages/invoice.php:77
 msgid "Coupon"
-msgstr ""
+msgstr "Coupon"
 
 #: pages/invoice.php:91
 msgid "The invoice could not be found."
-msgstr ""
+msgstr "La fattura non è stata trovata."
 
 #: pages/levels.php:16
 msgid "Subscription Information"
-msgstr ""
+msgstr "Informazioni Iscrizione"
 
 #: pages/levels.php:34
 #: pages/levels.php:44
 msgid "Free"
-msgstr ""
+msgstr "Gratis"
 
 #: pages/levels.php:52
 #, php-format
 msgid "%s per %s for %d more %s."
-msgstr ""
+msgstr "%s ogni %s per %d più %s."
 
 #: pages/levels.php:56
 #, php-format
 msgid "%s every %d %s for %d more %s."
-msgstr ""
+msgstr "%s ogni %d %s per %d più %s."
 
 #: pages/levels.php:61
 #, php-format
 msgid "%s after %d %s."
-msgstr ""
+msgstr "%s dopo %d %s."
 
 #: pages/levels.php:67
 #, php-format
 msgid "%s per %s."
-msgstr ""
+msgstr "%s ogni %s."
 
 #: pages/levels.php:71
 #, php-format
 msgid "%s every %d %s."
-msgstr ""
+msgstr "%s ogni %d %s."
 
 #: pages/levels.php:114
 #: pages/levels.php:116
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 #: pages/levels.php:118
 msgid "Your&nbsp;Level"
-msgstr ""
+msgstr "Tuo&nbsp;Livello"
 
 #: pages/levels.php:131
 msgid "return to your membership account"
-msgstr ""
+msgstr "torna al profilo"
 
 #: pages/levels.php:133
 msgid "return to the home page"
-msgstr ""
+msgstr "torna alla home"
 
 #: preheaders/account.php:7
 #: preheaders/levels.php:19
 msgid "Your membership status has been updated - Thank you!"
-msgstr ""
+msgstr "L'iscrizione è stata aggiornata - Grazie!"
 
 #: preheaders/account.php:11
 #: preheaders/levels.php:23
 msgid "Sorry, your request could not be completed - please try again in a few moments."
-msgstr ""
+msgstr "La richiesta non può essere portata a termine - riprova più tardi."
 
 #: preheaders/billing.php:258
 #: preheaders/checkout.php:464
 msgid "Please complete all required fields."
-msgstr ""
+msgstr "Compila tutti i campi richiesti."
 
 #: preheaders/billing.php:263
 #: preheaders/checkout.php:474
 msgid "Your email addresses do not match. Please try again."
-msgstr ""
+msgstr "L'indirizzo mail non coincide. Riprova."
 
 #: preheaders/billing.php:268
 #: preheaders/checkout.php:480
 msgid "The email address entered is in an invalid format. Please try again."
-msgstr ""
+msgstr "L'indirizzo mail inserito è in un formato non valido. Riprova."
 
 #: preheaders/billing.php:274
 msgid "All good!"
-msgstr ""
+msgstr "Tutto ok!"
 
 #: preheaders/billing.php:340
 #, php-format
 msgid "Information updated. <a href=\"%s\">&laquo; back to my account</a>"
-msgstr ""
+msgstr "Informazioni aggiornate. <a href=\"%s\">&laquo; torna al profilo</a>"
 
 #: preheaders/billing.php:347
 msgid "Error updating billing information."
-msgstr ""
+msgstr "Errore nel tentativo di aggiornare le informazioni di pagamento."
 
 #: preheaders/cancel.php:24
 msgid "Your membership has been cancelled."
-msgstr ""
+msgstr "La tua iscrizione è stata cancellata."
 
 #: preheaders/checkout.php:28
 #: preheaders/checkout.php:491
 msgid "Invalid gateway."
-msgstr ""
+msgstr "Metodo di pagamento non valido."
 
 #: preheaders/checkout.php:96
 msgid "Checkout: Payment Information"
-msgstr ""
+msgstr "Checkout: Informazione di Pagamento"
 
 #: preheaders/checkout.php:109
 msgid "Setup Your Account"
-msgstr ""
+msgstr "Imposta Profilo"
 
 #: preheaders/checkout.php:468
 msgid "Your passwords do not match. Please try again."
-msgstr ""
+msgstr "La password non coinvide. Riprova."
 
 #: preheaders/checkout.php:486
 #, php-format
 msgid "Please check the box to agree to the %s."
-msgstr ""
+msgstr "Seleziona per accettare i %s."
 
 #: preheaders/checkout.php:495
 msgid "Are you a spammer?"
-msgstr ""
+msgstr "Sei uno spammer?"
 
 #: preheaders/checkout.php:518
 msgid "That username is already taken. Please try another."
-msgstr ""
+msgstr "Il nome utente è già in uso. Provane un altro."
 
 #: preheaders/checkout.php:524
 msgid "That email address is already taken. Please try another."
-msgstr ""
+msgstr "L'indirizzo mail è già in uso. Provane un altro."
 
 #: preheaders/checkout.php:544
 #, php-format
 msgid "reCAPTCHA failed. (%s) Please try again."
-msgstr ""
+msgstr "reCAPTCHA errato. (%s) Riprova."
 
 #: preheaders/checkout.php:683
 msgid "Payment accepted."
-msgstr ""
+msgstr "Pagamento accettato"
 
 #: preheaders/checkout.php:691
 msgid "Unknown error generating account. Please contact us to setup your membership."
-msgstr ""
+msgstr "Errore sconosciuto creando il profilo. Contattaci per configurare la tua iscrizione."
 
 #: preheaders/checkout.php:735
 #: preheaders/checkout.php:803
 msgid "The PayPal Token was lost."
-msgstr ""
+msgstr "Il Token PayPal è stato perso."
 
 #: preheaders/checkout.php:825
 msgid "Your payment was accepted, but there was an error setting up your account. Please contact us."
-msgstr ""
+msgstr "Il pagamento è stato accettato, ma c'è stato un errore configurando il tuo profilo. Contattaci."
 
 #: preheaders/checkout.php:983
 msgid "IMPORTANT: Something went wrong during membership creation. Your credit card authorized, but we cancelled the order immediately. You should not try to submit this form again. Please contact the site owner to fix this issue."
-msgstr ""
+msgstr "IMPORTANTE: Qualcosa è andato storto durante l'iscrizione. La carta di credito è stata accettata, ma abbiamo immediatamente cancellato l'ordine. NON inviare nuovamente la richiesta. Contatta l'amministratore del sito per risolvere il problema."
 
 #: preheaders/checkout.php:988
 msgid "IMPORTANT: Something went wrong during membership creation. Your credit card was charged, but we couldn't assign your membership. You should not submit this form again. Please contact the site owner to fix this issue."
-msgstr ""
+msgstr "IMPORTANTE: Qualcosa è andato storto durante l'iscrizione. Il pagamento è stato effettuato, ma non è stato possibile assegnare l'iscrizione. NON inviare nuovamente la richiesta. Contatta l'amministratore del sito per risolvere il problema."
 
 #: preheaders/checkout.php:1001
 #, php-format
 msgid "You must <a href=\"%s\">setup a Payment Gateway</a> before any payments will be processed."
-msgstr ""
+msgstr "E' necessario <a href=\"%s\">configurare un metodo di pagamento</a> prima che qualunque pagamento possa essere effettuato."
 
 #: preheaders/checkout.php:1003
 msgid "A Payment Gateway must be setup before any payments will be processed."
-msgstr ""
+msgstr "E' necessario impostare un metodo di pagamento prima che qualunque pagamento possa essere effettuato."
 
 #: scheduled/crons.php:27
 #, php-format
 msgid "Membership expiring email sent to %s. "
-msgstr ""
+msgstr "Avviso di iscrizione in scadenza inviato a $s."
 
 #: scheduled/crons.php:61
 #, php-format
 msgid "Membership expired email sent to %s. "
-msgstr ""
+msgstr "Avviso di iscrizione scaduta inviato a $s."
 
 #: scheduled/crons.php:104
 #, php-format
 msgid "Trial ending email sent to %s. "
-msgstr ""
+msgstr "Avviso di scadenza periodo di prova inviato a $s."
 
 #: services/authnet-silent-post.php:133
 msgid "<p>A payment is being held for review within Authorize.net.</p><p>Payment Information From Authorize.net"
-msgstr ""
+msgstr "<p>Un pagamento è in attesa di verifica da parte di Authorize.net.</p><p>Informazione di pagamento da Authorize.net"
 
 #: services/stripe-webhook.php:176
 #, php-format
 msgid "%s has had their payment subscription cancelled by Stripe. Please check that this user's membership is cancelled on your site if it should be."
-msgstr ""
+msgstr "L'iscrizione di %s è stata cancellata da Stripe. Se anche l'iscrizione dell'utente sul sito dovesse essere cancellata, controlla che sia effettivamente così."
 
